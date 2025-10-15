@@ -15,7 +15,9 @@ venv\Scripts\activate  # On Windows (cmd/powershell). Use `source venv\Scripts\a
 ```
 
 ### Install Python dependencies
+```
 pip install -r requirements.txt
+```
 
 ### NB: If any additional packages are installed, update requirements.txt using
 ```
