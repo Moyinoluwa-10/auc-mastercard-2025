@@ -1,0 +1,28 @@
+GEO_ID,NAME,line_no,label,oc_units,oc_units_moe,oc_units_pct,oc_units_pct_moe,ooh_units,ooh_units_moe,ooh_units_pct,ooh_units_pct_moe,roh_units,roh_units_moe,roh_units_pct,roh_units_pct_moe
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",001,Occupied housing units,3426,422,3426,422,1195,267,1195,267,2231,384,2231,384
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",002,White,2141,331,62.5,6.8,814,191,68.1,14.9,1327,295,59.5,10
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",003,Black or African American,864,258,25.2,6.3,220,212,18.4,15,644,264,28.9,9.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",004,American Indian and Alaska Native,19,27,0.6,0.8,19,27,1.6,2.2,0,18,0,1.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",005,Asian,257,134,7.5,3.7,142,67,11.9,5.6,115,106,5.2,4.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",006,Native Hawaiian and Other Pacific Islander,0,18,0,1.1,0,18,0,3.1,0,18,0,1.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",007,Some other race,66,106,1.9,3.1,0,18,0,3.1,66,106,3,4.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",008,Two or more races,79,70,2.3,2,0,18,0,3.1,79,70,3.5,3.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",009,Hispanic or Latino origin,71,73,2.1,2.1,71,73,5.9,6,0,18,0,1.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",010,"White alone, not Hispanic or Latino",2070,317,60.4,6.2,743,180,62.2,14.2,1327,295,59.5,10
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",011,Under 35 years,957,327,27.9,8.3,52,61,4.4,4.9,905,318,40.6,11.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",012,35 to 44 years,680,191,19.8,5.4,295,209,24.7,13.6,385,193,17.3,8.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",013,45 to 54 years,533,164,15.6,4.4,172,91,14.4,7.8,361,159,16.2,6.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",014,55 to 64 years,552,203,16.1,5.5,235,117,19.7,8.4,317,161,14.2,7.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",015,65 to 74 years,434,168,12.7,4.6,226,109,18.9,9.7,208,132,9.3,5.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",016,75 to 84 years,230,85,6.7,2.3,175,77,14.6,6.5,55,51,2.5,2.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",017,85 years and over,40,37,1.2,1.1,40,37,3.3,3,0,18,0,1.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",018,Less than high school graduate,144,75,4.2,2.2,125,75,10.5,6.2,19,31,0.9,1.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",019,High school graduate (includes equivalency),928,256,27.1,7.3,309,121,25.9,9.9,619,225,27.7,9.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",020,Some college or associate's degree,1378,334,40.2,7.6,391,152,32.7,10.7,987,304,44.2,11.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",021,Bachelor's degree or higher,976,334,28.5,8.7,370,191,31,11.9,606,264,27.2,10.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",022,Moved in 2017 or later,432,166,12.6,4.5,0,18,0,3.1,432,166,19.4,6.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",023,Moved in 2015 to 2016,900,272,26.3,7.7,70,99,5.9,7.9,830,269,37.2,10.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",024,Moved in 2010 to 2014,973,287,28.4,6.7,155,115,13,8.5,818,268,36.7,9.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",025,Moved in 2000 to 2009,427,184,12.5,5.1,304,136,25.4,9,123,106,5.5,4.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",026,Moved in 1990 to 1999,304,139,8.9,4.1,304,139,25.4,11,0,18,0,1.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",027,Moved in 1989 or earlier,390,117,11.4,3.2,362,113,30.3,9.1,28,34,1.3,1.5

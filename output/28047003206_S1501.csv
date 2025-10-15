@@ -1,0 +1,64 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe,male,male_moe,male_pct,male_pct_moe,female,female_moe,female_pct,female_pct_moe
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",001,Population 18 to 24 years,1050,330,,,370,173,,,680,266,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",002,Less than high school graduate,189,184,18,14.9,64,75,17.3,18.8,125,141,18.4,17.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",003,High school graduate (includes equivalency),333,193,31.7,14.4,85,96,23,25.8,248,166,36.5,17.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",004,Some college or associate's degree,501,247,47.7,24.2,212,155,57.3,28.9,289,185,42.5,30.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",005,Bachelor's degree or higher,27,35,2.6,3.4,9,24,2.4,6.3,18,28,2.6,4.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",006,Population 25 years and over,6388,488,,,2866,326,,,3522,278,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",007,Less than 9th grade,150,116,2.3,1.8,32,44,1.1,1.5,118,92,3.4,2.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",008,"9th to 12th grade, no diploma",221,146,3.5,2.3,0,20,0,1.3,221,146,6.3,4.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",009,High school graduate (includes equivalency),2069,397,32.4,5.7,1055,274,36.8,7.6,1014,267,28.8,8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",010,"Some college, no degree",1255,274,19.6,3.8,577,210,20.1,6.6,678,199,19.3,5.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",011,Associate's degree,575,182,9,2.8,263,119,9.2,4.1,312,116,8.9,3.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",012,Bachelor's degree,1338,368,20.9,5.4,591,172,20.6,6.2,747,284,21.2,7.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",013,Graduate or professional degree,780,228,12.2,3.5,348,137,12.1,4.9,432,155,12.3,4.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",014,High school graduate or higher,6017,536,94.2,3,2834,335,98.9,1.5,3183,309,90.4,5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",015,Bachelor's degree or higher,2118,415,33.2,5.9,939,205,32.8,7.7,1179,293,33.5,7.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",016,Population 25 to 34 years,1664,379,,,657,249,,,1007,257,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",017,High school graduate or higher,1638,380,98.4,2.8,657,249,100,5.5,981,262,97.4,4.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",018,Bachelor's degree or higher,412,186,24.8,9.4,111,73,16.9,10.2,301,164,29.9,14
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",019,Population 35 to 44 years,1260,304,,,624,194,,,636,185,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",020,High school graduate or higher,1174,318,93.2,8.9,624,194,100,5.8,550,195,86.5,17.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",021,Bachelor's degree or higher,284,158,22.5,11.1,127,88,20.4,13.1,157,97,24.7,14.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",022,Population 45 to 64 years,2245,262,,,1007,171,,,1238,187,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",023,High school graduate or higher,2160,259,96.2,3.2,1007,171,100,3.7,1153,184,93.1,5.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",024,Bachelor's degree or higher,884,225,39.4,9.7,347,120,34.5,10.8,537,170,43.4,14.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",025,Population 65 years and over,1219,176,,,578,111,,,641,114,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",026,High school graduate or higher,1045,161,85.7,8,546,103,94.5,7.3,499,91,77.8,12.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",027,Bachelor's degree or higher,538,191,44.1,12.8,354,112,61.2,14.2,184,96,28.7,14.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",028,White alone,4075,447,,,2061,284,,,2014,221,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",029,High school graduate or higher,4015,454,98.5,1.5,2061,284,100,1.8,1954,228,97,3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",030,Bachelor's degree or higher,1349,298,33.1,7.8,673,161,32.7,8.8,676,176,33.6,8.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",031,"White alone, not Hispanic or Latino",3798,426,,,1935,274,,,1863,211,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",032,High school graduate or higher,3776,425,99.4,0.7,1935,274,100,1.9,1841,211,98.8,1.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",033,Bachelor's degree or higher,1315,292,34.6,8.3,673,161,34.8,9.5,642,170,34.5,9.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",034,Black alone,1914,409,,,592,233,,,1322,253,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",035,High school graduate or higher,1715,451,89.6,8.1,592,233,100,6.1,1123,296,84.9,11.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",036,Bachelor's degree or higher,652,245,34.1,9.9,163,110,27.5,19.3,489,213,37,13.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",037,American Indian or Alaska Native alone,60,53,,,32,43,,,28,40,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",038,High school graduate or higher,32,43,53.3,53.3,32,43,100,56.3,0,20,0,60.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",039,Bachelor's degree or higher,0,20,0,41.1,0,20,0,56.3,0,20,0,60.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",040,Asian alone,148,88,,,32,44,,,116,63,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",041,High school graduate or higher,64,57,43.2,40,0,20,0,56.3,64,57,55.2,39
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",042,Bachelor's degree or higher,0,20,0,22.1,0,20,0,56.3,0,20,0,27
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",043,Native Hawaiian and Other Pacific Islander alone,0,20,,,0,20,,,0,20,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",044,High school graduate or higher,0,20,,,0,20,,,0,20,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",045,Bachelor's degree or higher,0,20,,,0,20,,,0,20,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",046,Some other race alone,33,40,,,19,33,,,14,24,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",047,High school graduate or higher,33,40,100,55.5,19,33,100,73.1,14,24,100,85.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",048,Bachelor's degree or higher,33,40,100,55.5,19,33,100,73.1,14,24,100,85.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",049,Two or more races,158,105,,,130,91,,,28,35,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",050,High school graduate or higher,158,105,100,20.9,130,91,100,24.7,28,35,100,60.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",051,Bachelor's degree or higher,84,73,53.2,31.4,84,73,64.6,30.2,0,20,0,60.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",052,Hispanic or Latino Origin,310,225,,,145,121,,,165,114,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",053,High school graduate or higher,272,217,87.7,18.8,145,121,100,22.5,127,108,77,34.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",054,Bachelor's degree or higher,67,56,21.6,28.3,19,33,13.1,26.4,48,51,29.1,38.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",055,Less than high school graduate,,,40.4,27.2,,,0,56.3,,,44.2,28.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",056,High school graduate (includes equivalency),,,18.8,8.5,,,14.8,12,,,22.9,17.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",057,Some college or associate's degree,,,16,7.3,,,5.8,4.9,,,24.6,11.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",058,Bachelor's degree or higher,,,2,1.9,,,2.9,3.5,,,1.3,1.9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",059,Population 25 years and over with earnings,35231,5949,,,41295,5398,,,27532,6964,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",061,High school graduate (includes equivalency),26906,7597,,,37037,15548,,,,,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",062,Some college or associate's degree,32426,7913,,,40000,15586,,,23839,8769,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",063,Bachelor's degree,42257,16351,,,40099,5081,,,52953,13950,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",064,Graduate or professional degree,59167,16781,,,68839,40808,,,58646,15014,,

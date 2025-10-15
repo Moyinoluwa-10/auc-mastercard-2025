@@ -1,0 +1,32 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Total households,1824,182,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,Has one or more types of computing devices:,1747,190,95.8,4.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,Desktop or laptop,1196,199,65.6,10
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,Desktop or laptop with no other type of computing device,150,90,8.2,4.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,Smartphone,1548,222,84.9,8.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,Smartphone with no other type of computing device,339,172,18.6,9.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,Tablet or other portable wireless computer,910,206,49.9,10.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,Tablet or other portable wireless computer with no other type of computing device,0,19,0,2.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,Other computer,74,81,4.1,4.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,Other computer with no other type of computing device,0,19,0,2.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,No computer,77,88,4.2,4.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,With an Internet subscription:,1601,199,87.8,6.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,Dial-up with no other type of Internet subscription,0,19,0,2.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,Broadband of any type,1601,199,87.8,6.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,Cellular data plan,1403,223,76.9,8.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,Cellular data plan with no other type of Internet subscription,513,185,28.1,10.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",017,"Broadband such as cable, fiber optic or DSL",718,218,39.4,10.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",018,Satellite Internet service,357,153,19.6,8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",019,Without an Internet subscription,223,113,12.2,6.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",020,"Less than $20,000:",144,113,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",021,With dial-up Internet subscription alone,0,19,0,25.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",022,With a broadband Internet subscription,126,111,87.5,24
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",023,Without an Internet subscription,18,30,12.5,24
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",024,"$20,000 to $74,999:",781,210,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",025,With dial-up Internet subscription alone,0,19,0,5.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",026,With a broadband Internet subscription,594,201,76.1,13.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",027,Without an Internet subscription,187,110,23.9,13.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",028,"$75,000 or more:",899,209,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",029,With dial-up Internet subscription alone,0,19,0,4.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",030,With a broadband Internet subscription,881,202,98,3.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",031,Without an Internet subscription,18,31,2,3.4

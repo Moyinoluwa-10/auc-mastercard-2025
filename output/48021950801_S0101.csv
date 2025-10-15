@@ -1,0 +1,39 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe,male,male_moe,male_pct,male_pct_moe,female,female_moe,female_pct,female_pct_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Total population,8014,1131,,,4274,712,,,3740,673,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,Under 5 years,764,400,9.5,4.1,445,277,10.4,5.6,319,271,8.5,6.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,5 to 9 years,583,185,7.3,2.3,407,177,9.5,3.9,176,105,4.7,2.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,10 to 14 years,673,212,8.4,2.5,339,183,7.9,4.1,334,186,8.9,4.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,15 to 19 years,828,221,10.3,2.6,435,162,10.2,3.7,393,187,10.5,5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,20 to 24 years,639,285,8,3.3,451,201,10.6,4.5,188,158,5,4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,25 to 29 years,579,383,7.2,4.3,285,266,6.7,5.7,294,178,7.9,4.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,30 to 34 years,444,239,5.5,2.9,201,123,4.7,3,243,153,6.5,3.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,35 to 39 years,505,218,6.3,2.6,174,112,4.1,2.6,331,181,8.9,4.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,40 to 44 years,421,152,5.3,2,146,79,3.4,1.9,275,125,7.4,3.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,45 to 49 years,653,268,8.1,3.4,261,130,6.1,3.1,392,208,10.5,5.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,50 to 54 years,474,197,5.9,2.3,365,171,8.5,3.6,109,80,2.9,2.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,55 to 59 years,592,274,7.4,3.6,391,186,9.1,4.7,201,134,5.4,3.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,60 to 64 years,361,224,4.5,2.8,189,149,4.4,3.4,172,116,4.6,3.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,65 to 69 years,219,105,2.7,1.4,87,47,2,1.2,132,77,3.5,2.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,70 to 74 years,230,126,2.9,1.6,64,51,1.5,1.2,166,105,4.4,2.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",017,75 to 79 years,17,27,0.2,0.3,17,27,0.4,0.6,0,19,0,1.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",018,80 to 84 years,32,36,0.4,0.4,17,28,0.4,0.6,15,23,0.4,0.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",019,85 years and over,0,19,0,0.5,0,19,0,1,0,19,0,1.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",020,5 to 14 years,1256,268,15.7,3,746,234,17.5,5,510,197,13.6,4.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",021,15 to 17 years,356,152,4.4,1.9,168,108,3.9,2.5,188,114,5,3.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",022,Under 18 years,2376,582,29.6,4.8,1359,373,31.8,5.7,1017,432,27.2,8.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",023,18 to 24 years,1111,364,13.9,4.1,718,247,16.8,5.4,393,209,10.5,5.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",024,15 to 44 years,3416,651,42.6,4.7,1692,402,39.6,6.1,1724,358,46.1,6.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",025,16 years and over,5866,759,73.2,4.6,3069,481,71.8,5.1,2797,440,74.8,8.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",026,18 years and over,5638,763,70.4,4.8,2915,481,68.2,5.7,2723,442,72.8,8.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",027,21 years and over,4918,674,61.4,4.6,2417,450,56.6,7.6,2501,406,66.9,7.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",028,60 years and over,859,238,10.7,3.1,374,148,8.8,3.4,485,144,13,4.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",029,62 years and over,665,188,8.3,2.6,250,101,5.8,2.5,415,124,11.1,3.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",030,65 years and over,498,151,6.2,2.1,185,70,4.3,1.8,313,122,8.4,3.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",031,75 years and over,49,56,0.6,0.7,34,38,0.8,0.8,15,23,0.4,0.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",032,Median age (years),28.5,7.8,,,26.4,5.5,,,34.2,4.8,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",033,Sex ratio (males per 100 females),114.3,23.2,,,,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",034,Age dependency ratio,55.9,11.4,,,,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",035,Old-age dependency ratio,9.7,3.4,,,,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",036,Child dependency ratio,46.2,10.6,,,,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",037,Sex,,,0,,,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",038,Age,,,1.4,,,,,,,,,

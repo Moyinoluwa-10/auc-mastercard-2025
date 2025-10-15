@@ -1,0 +1,17 @@
+GEO_ID,NAME,line_no,label,households,households_moe,families,families_moe,mc_families,mc_families_moe,nf_households,nf_households_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Total,1824,182,1668,174,1206,205,156,96
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,"Less than $10,000",3.1,4.7,3.4,5.2,0,3.5,0,23.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,"$10,000 to $14,999",1.9,2.2,1,1.8,0,3.5,11.5,18.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,"$15,000 to $24,999",9.9,7.8,6.2,7.2,4.7,7.2,48.7,37.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,"$25,000 to $34,999",3.7,4.6,4.1,5,5.6,6.8,0,23.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,"$35,000 to $49,999",19.5,7.7,22.5,9.5,19.6,8.8,9,15.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,"$50,000 to $74,999",12.6,6,12.9,6.4,10.4,5,9,15.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,"$75,000 to $99,999",16.8,7.6,17.3,8.2,15.2,9.6,11.5,18
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,"$100,000 to $149,999",17.4,8.2,16.1,8.5,21.7,11.7,10.3,17
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,"$150,000 to $199,999",12.1,7.6,13.2,8.3,18.2,11,0,23.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,"$200,000 or more",3,3.9,3.2,4.3,4.5,5.8,0,23.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,Median income (dollars),70469,25150,72031,25877,81875,25005,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,Mean income (dollars),81249,12682,83745,13574,-999999999,-999999999,41613,22856
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,Household income in the past 12 months,56.7,,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,Family income in the past 12 months,,,62.1,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,Nonfamily income in the past 12 months,,,,,,,0,

@@ -1,0 +1,32 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",001,Total households,3415,246,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",002,Has one or more types of computing devices:,3146,269,92.1,3.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",003,Desktop or laptop,2693,292,78.9,6.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",004,Desktop or laptop with no other type of computing device,174,101,5.1,2.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",005,Smartphone,2823,250,82.7,4.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",006,Smartphone with no other type of computing device,211,154,6.2,4.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",007,Tablet or other portable wireless computer,1701,322,49.8,9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",008,Tablet or other portable wireless computer with no other type of computing device,47,61,1.4,1.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",009,Other computer,86,95,2.5,2.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",010,Other computer with no other type of computing device,0,17,0,0.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",011,No computer,269,108,7.9,3.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",012,With an Internet subscription:,2588,316,75.8,7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",013,Dial-up with no other type of Internet subscription,0,17,0,0.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",014,Broadband of any type,2588,316,75.8,7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",015,Cellular data plan,1893,304,55.4,8.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",016,Cellular data plan with no other type of Internet subscription,408,180,11.9,5.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",017,"Broadband such as cable, fiber optic or DSL",2150,317,63,7.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",018,Satellite Internet service,204,118,6,3.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",019,Without an Internet subscription,827,241,24.2,7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",020,"Less than $20,000:",567,185,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",021,With dial-up Internet subscription alone,0,17,0,5.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",022,With a broadband Internet subscription,419,196,73.9,16.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",023,Without an Internet subscription,148,83,26.1,16.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",024,"$20,000 to $74,999:",2294,309,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",025,With dial-up Internet subscription alone,0,17,0,1.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",026,With a broadband Internet subscription,1697,289,74,7.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",027,Without an Internet subscription,597,195,26,7.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",028,"$75,000 or more:",554,201,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",029,With dial-up Internet subscription alone,0,17,0,5.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",030,With a broadband Internet subscription,472,185,85.2,14.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",031,Without an Internet subscription,82,88,14.8,14.6

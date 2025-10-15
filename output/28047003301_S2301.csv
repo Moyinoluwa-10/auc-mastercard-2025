@@ -1,0 +1,36 @@
+GEO_ID,NAME,line_no,label,total,total_moe,lfp_rate,lfp_rate_moe,ep_ratio,ep_ratio_moe,unemployment_rate,unemployment_rate_moe
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",001,Population 16 years and over,6933,699,67.4,5.5,60.1,5.8,8.1,4.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",002,16 to 19 years,374,228,38,23.8,15.8,13,58.5,38.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",003,20 to 24 years,761,387,83.7,13.5,73.7,16.4,0,6.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",004,25 to 29 years,820,379,96.1,4.8,83.9,14.8,8.5,13.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",005,30 to 34 years,439,185,94.5,10,83.4,16,8.5,13.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",006,35 to 44 years,1339,223,86.4,9.8,76.2,10.8,11.8,8.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",007,45 to 54 years,1032,264,85.3,10.1,82.9,9.9,1.6,3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",008,55 to 59 years,475,213,69.7,15.8,62.1,16.3,10.9,11.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",009,60 to 64 years,424,186,48.6,20.8,48.6,20.8,0,16.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",010,65 to 74 years,718,294,10.6,10.4,10.6,10.4,0,36.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",011,75 years and over,551,210,7.8,7.6,7.8,7.6,0,48.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",012,White alone,4143,592,56.7,6.5,49.4,6.6,7.8,6.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",013,Black or African American alone,1777,489,89,10.4,82.8,12.5,6.9,7.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",014,American Indian and Alaska Native alone,290,378,28.6,5.1,20.3,4.3,28.9,6.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",015,Asian alone,516,180,88.4,11.8,83.7,14.7,5.3,9.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",016,Native Hawaiian and Other Pacific Islander alone,0,18,,,,,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",017,Some other race alone,66,106,100,39.2,100,39.2,0,39.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",018,Two or more races,141,112,100,23.1,66,39.3,28.5,42.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",019,Hispanic or Latino origin (of any race),213,182,66.2,25.6,66.2,25.6,0,23.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",020,"White alone, not Hispanic or Latino",3930,582,56.2,6.6,48.5,6.8,8.4,6.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",021,Population 20 to 64 years,5290,662,83.4,4.2,75.5,5.3,6.7,4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",022,Male,2604,437,87.6,5.7,76.9,7.5,7.3,5.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",023,Female,2686,412,79.4,6.3,74.1,6.2,6,5.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",024,With own children under 18 years,901,192,92,7,79.5,12.1,13.6,12
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",025,With own children under 6 years only,177,125,82.5,29.1,82.5,29.1,0,22.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",026,With own children under 6 years and 6 to 17  years,318,167,100,11.1,100,11.1,0,11.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",027,With own children 6 to 17 years only,406,214,89.9,10.5,62.1,20.7,31,21.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",028,Below poverty level,948,424,53,11.2,46.5,12.7,12.2,18.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",029,At or above the poverty level,4337,655,90.2,3.4,81.9,5.1,5.9,3.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",030,With any disability,1063,302,50.8,12.5,45.2,12.7,6.6,11.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",031,Population 25 to 64 years,4529,511,83.4,5.1,75.8,6.2,7.7,4.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",032,Less than high school graduate,420,131,64.5,23.8,55.5,26.5,14,15.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",033,High school graduate (includes equivalency),1345,352,86.5,9.9,76.8,12.3,10.1,9.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",034,Some college or associate's degree,1656,396,81,10.4,75.8,10.6,4.6,7.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",035,Bachelor's degree or higher,1108,391,90.3,6.7,82.1,10.2,7.1,7.5

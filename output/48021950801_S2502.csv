@@ -1,0 +1,28 @@
+GEO_ID,NAME,line_no,label,oc_units,oc_units_moe,oc_units_pct,oc_units_pct_moe,ooh_units,ooh_units_moe,ooh_units_pct,ooh_units_pct_moe,roh_units,roh_units_moe,roh_units_pct,roh_units_pct_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Occupied housing units,1824,182,1824,182,1484,194,1484,194,340,174,340,174
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,White,841,193,46.1,9.9,756,183,50.9,10.4,85,64,25,20.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,Black or African American,69,78,3.8,4.2,69,78,4.6,5.2,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,American Indian and Alaska Native,0,19,0,2.3,0,19,0,2.8,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,Asian,0,19,0,2.3,0,19,0,2.8,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,Native Hawaiian and Other Pacific Islander,0,19,0,2.3,0,19,0,2.8,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,Some other race,737,187,40.4,8.5,482,158,32.5,8.9,255,163,75,20.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,Two or more races,177,113,9.7,6.4,177,113,11.9,8,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,Hispanic or Latino origin,1047,194,57.4,9.1,784,186,52.8,10.5,263,164,77.4,17.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,"White alone, not Hispanic or Latino",642,168,35.2,8.5,565,165,38.1,10.1,77,55,22.6,17.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,Under 35 years,337,160,18.5,8.4,138,109,9.3,7.2,199,126,58.5,22.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,35 to 44 years,388,141,21.3,7.7,363,140,24.5,9.5,25,37,7.4,11.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,45 to 54 years,375,158,20.6,8.3,334,147,22.5,9.3,41,47,12.1,15.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,55 to 64 years,399,152,21.9,8.3,399,152,26.9,9.5,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,65 to 74 years,291,120,16,6.4,216,98,14.6,6.1,75,96,22.1,24.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,75 to 84 years,34,38,1.9,2.1,34,38,2.3,2.5,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",017,85 years and over,0,19,0,2.3,0,19,0,2.8,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",018,Less than high school graduate,578,204,31.7,10.6,396,173,26.7,11,182,152,53.5,28.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",019,High school graduate (includes equivalency),480,173,26.3,8.9,371,162,25,10.1,109,89,32.1,25.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",020,Some college or associate's degree,464,140,25.4,7.8,415,135,28,9.2,49,52,14.4,15.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",021,Bachelor's degree or higher,302,135,16.6,7.2,302,135,20.4,8.9,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",022,Moved in 2017 or later,145,126,7.9,6.8,21,39,1.4,2.6,124,123,36.5,26.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",023,Moved in 2015 to 2016,220,130,12.1,7,120,102,8.1,6.9,100,84,29.4,21.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",024,Moved in 2010 to 2014,393,164,21.5,9.1,304,118,20.5,8.2,89,87,26.2,24.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",025,Moved in 2000 to 2009,491,167,26.9,8.6,464,161,31.3,9.7,27,39,7.9,12.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",026,Moved in 1990 to 1999,362,174,19.8,9.2,362,174,24.4,11,0,19,0,11.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",027,Moved in 1989 or earlier,213,126,11.7,7,213,126,14.4,8.4,0,19,0,11.7

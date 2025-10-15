@@ -1,0 +1,17 @@
+GEO_ID,NAME,line_no,label,households,households_moe,families,families_moe,mc_families,mc_families_moe,nf_households,nf_households_moe
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",001,Total,3426,422,1954,283,1450,270,1472,406
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",002,"Less than $10,000",3.7,2.9,0,1.9,0,2.5,8.6,6.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",003,"$10,000 to $14,999",7,4,7.2,6,4.3,5.3,7.7,4.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",004,"$15,000 to $24,999",16.4,6.1,12.4,8.4,11,11.5,21.7,9.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",005,"$25,000 to $34,999",9.4,5,5.4,4.8,3.1,2.8,13.7,9.3
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",006,"$35,000 to $49,999",22.9,7.3,16.9,8,16,8.7,33.2,13.6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",007,"$50,000 to $74,999",16.4,6.6,22.3,11,24.6,13.9,6.2,6.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",008,"$75,000 to $99,999",13.4,5.2,22.9,10,24.9,11.8,3.7,3.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",009,"$100,000 to $149,999",9.6,4.3,12.4,6.8,16.1,9.4,3,3.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",010,"$150,000 to $199,999",0,1.1,0,1.9,0,2.5,0,2.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",011,"$200,000 or more",1.2,1.7,0.4,1.1,0,2.5,2.3,3.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",012,Median income (dollars),42432,5978,62798,15697,64807,15695,34508,5624
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",013,Mean income (dollars),62146,17636,63869,8905,-999999999,-999999999,57940,38285
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",014,Household income in the past 12 months,32.2,,,,,,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",015,Family income in the past 12 months,,,33.6,,,,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",016,Nonfamily income in the past 12 months,,,,,,,30.2,

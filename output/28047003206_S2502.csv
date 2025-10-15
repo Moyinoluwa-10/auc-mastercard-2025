@@ -1,0 +1,28 @@
+GEO_ID,NAME,line_no,label,oc_units,oc_units_moe,oc_units_pct,oc_units_pct_moe,ooh_units,ooh_units_moe,ooh_units_pct,ooh_units_pct_moe,roh_units,roh_units_moe,roh_units_pct,roh_units_pct_moe
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",001,Occupied housing units,3691,248,3691,248,2337,250,2337,250,1354,263,1354,263
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",002,White,2083,222,56.4,5.4,1548,207,66.2,7.4,535,213,39.5,12.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",003,Black or African American,1330,222,36,5.1,511,191,21.9,7.2,819,213,60.5,12.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",004,American Indian and Alaska Native,60,53,1.6,1.4,60,53,2.6,2.2,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",005,Asian,80,64,2.2,1.7,80,64,3.4,2.8,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",006,Native Hawaiian and Other Pacific Islander,0,20,0,1,0,20,0,1.6,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",007,Some other race,0,20,0,1,0,20,0,1.6,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",008,Two or more races,138,97,3.7,2.6,138,97,5.9,4,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",009,Hispanic or Latino origin,163,120,4.4,3.2,79,64,3.4,2.6,84,117,6.2,8.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",010,"White alone, not Hispanic or Latino",1938,203,52.5,5.2,1487,190,63.6,7.3,451,169,33.3,9.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",011,Under 35 years,949,257,25.7,6.2,472,166,20.2,5.9,477,231,35.2,14.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",012,35 to 44 years,763,212,20.7,5.4,288,113,12.3,4.5,475,205,35.1,13.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",013,45 to 54 years,784,197,21.2,5.3,507,152,21.7,5.7,277,145,20.5,11.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",014,55 to 64 years,424,147,11.5,4.1,342,129,14.6,5.5,82,91,6.1,6.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",015,65 to 74 years,481,127,13,3.4,450,118,19.3,5.2,31,37,2.3,2.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",016,75 to 84 years,274,109,7.4,3,262,109,11.2,4.8,12,20,0.9,1.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",017,85 years and over,16,28,0.4,0.8,16,28,0.7,1.2,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",018,Less than high school graduate,266,159,7.2,4.3,94,65,4,2.8,172,145,12.7,10.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",019,High school graduate (includes equivalency),946,196,25.6,5.4,403,143,17.2,5.9,543,188,40.1,12.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",020,Some college or associate's degree,1199,232,32.5,5.6,692,179,29.6,7,507,205,37.4,12.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",021,Bachelor's degree or higher,1280,246,34.7,6,1148,231,49.1,7.7,132,98,9.7,7.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",022,Moved in 2017 or later,498,204,13.5,5.5,168,108,7.2,4.4,330,178,24.4,13
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",023,Moved in 2015 to 2016,556,184,15.1,4.7,221,109,9.5,4.4,335,169,24.7,10.9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",024,Moved in 2010 to 2014,965,304,26.1,7.4,496,182,21.2,6.7,469,207,34.6,15
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",025,Moved in 2000 to 2009,1157,259,31.3,7.1,937,198,40.1,7.7,220,167,16.2,11.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",026,Moved in 1990 to 1999,190,75,5.1,2,190,75,8.1,3.4,0,20,0,2.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",027,Moved in 1989 or earlier,325,116,8.8,3.3,325,116,13.9,5.2,0,20,0,2.7

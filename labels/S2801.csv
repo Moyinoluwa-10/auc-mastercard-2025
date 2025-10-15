@@ -1,0 +1,32 @@
+﻿line_no,label
+1,Total households 
+2,Has one or more types of computing devices: 
+3,Desktop or laptop 
+4,Desktop or laptop with no other type of computing device 
+5,Smartphone 
+6,Smartphone with no other type of computing device 
+7,Tablet or other portable wireless computer 
+8,Tablet or other portable wireless computer with no other type of computing device 
+9,Other computer 
+10,Other computer with no other type of computing device 
+11,No computer 
+12,With an Internet subscription: 
+13,Dial-up with no other type of Internet subscription 
+14,Broadband of any type 
+15,Cellular data plan 
+16,Cellular data plan with no other type of Internet subscription 
+17,"Broadband such as cable, fiber optic or DSL "
+18,Satellite Internet service 
+19,Without an Internet subscription 
+20,"Less than $20,000: "
+21,With dial-up Internet subscription alone 
+22,With a broadband Internet subscription 
+23,Without an Internet subscription 
+24,"$20,000 to $74,999: "
+25,With dial-up Internet subscription alone 
+26,With a broadband Internet subscription 
+27,Without an Internet subscription 
+28,"$75,000 or more: "
+29,With dial-up Internet subscription alone 
+30,With a broadband Internet subscription 
+31,Without an Internet subscription 

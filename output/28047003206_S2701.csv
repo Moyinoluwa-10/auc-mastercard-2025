@@ -1,0 +1,62 @@
+GEO_ID,NAME,line_no,label,total,total_moe,insured,insured_moe,insured_pct,insured_pct_moe,uninsured,uninsured_moe,uninsured_pct,uninsured_pct_moe
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",001,Civilian noninstitutionalized population,10845,901,9095,959,83.9,5.5,1750,622,16.1,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",002,Under 6 years,1250,282,1143,279,91.4,7.5,107,95,8.6,7.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",003,6 to 18 years,2521,590,2320,627,92,7.8,201,189,8,7.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",004,19 to 25 years,971,318,572,247,58.9,22.5,399,281,41.1,22.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",005,26 to 34 years,1449,339,986,303,68,13.6,463,225,32,13.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",006,35 to 44 years,1237,301,967,277,78.2,13.2,270,179,21.8,13.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",007,45 to 54 years,1366,307,1140,273,83.5,10.9,226,164,16.5,10.9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",008,55 to 64 years,832,213,748,225,89.9,9.6,84,73,10.1,9.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",009,65 to 74 years,658,187,658,187,100,5.5,0,20,0,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",010,75 years and older,561,181,561,181,100,6.5,0,20,0,6.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",011,Under 19 years,3771,641,3463,697,91.8,5.5,308,195,8.2,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",012,19 to 64 years,5855,512,4413,519,75.4,7.8,1442,504,24.6,7.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",013,65 years and older,1219,176,1219,176,100,3,0,20,0,3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",014,Male,5173,686,4234,704,81.8,7.6,939,404,18.2,7.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",015,Female,5672,559,4861,517,85.7,5.5,811,337,14.3,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",016,White alone,6296,675,5085,523,80.8,8.2,1211,592,19.2,8.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",017,Black or African American alone,3949,869,3467,827,87.8,6.1,482,245,12.2,6.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",018,American Indian and Alaska Native alone,60,53,60,53,100,41.1,0,20,0,41.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",019,Asian alone,148,88,148,88,100,22.1,0,20,0,22.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",020,Native Hawaiian and Other Pacific Islander alone,0,20,0,20,,,0,20,,
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",021,Some other race alone,76,106,57,76,75,14.7,19,33,25,14.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",022,Two or more races,316,179,278,176,88,21.3,38,70,12,21.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",023,Hispanic or Latino (of any race),636,410,261,191,41,38.2,375,400,59,38.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",024,"White alone, not Hispanic or Latino",5771,627,4916,518,85.2,6.2,855,400,14.8,6.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",025,In family households,9769,1025,8176,1054,83.7,5.7,1593,570,16.3,5.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",026,In married couple families,6375,1089,5731,1079,89.9,5.5,644,353,10.1,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",027,In other families,3394,993,2445,847,72,11.6,949,464,28,11.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",028,"Male reference person, no spouse present",628,457,172,178,27.4,30.3,456,418,72.6,30.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",029,"Female reference person, no spouse present",2766,986,2273,806,82.2,6,493,258,17.8,6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",030,In non-family households and other living arrangements,1076,349,919,298,85.4,10.7,157,132,14.6,10.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",031,Native born,10590,907,8880,958,83.9,5.7,1710,626,16.1,5.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",032,Foreign born,255,139,215,115,84.3,14.8,40,46,15.7,14.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",033,Naturalized,182,104,182,104,100,18.5,0,20,0,18.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",034,Not a citizen,73,68,33,42,45.2,38,40,46,54.8,38
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",035,With a disability,1230,258,1189,265,96.7,4,41,48,3.3,4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",036,No disability,9615,920,7906,963,82.2,6.2,1709,621,17.8,6.2
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",037,Civilian noninstitutionalized population 26 years and over,6103,463,5060,446,82.9,5.3,1043,350,17.1,5.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",038,Less than high school graduate,371,191,371,191,100,9.6,0,20,0,9.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",039,High school graduate (includes equivalency),1951,368,1242,337,63.7,11.8,709,263,36.3,11.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",040,Some college or associate's degree,1728,324,1446,272,83.7,8,282,161,16.3,8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",041,Bachelor's degree or higher,2053,414,2001,416,97.5,3.4,52,68,2.5,3.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",042,Civilian noninstitutionalized population 19 to 64 years,5855,512,4413,519,75.4,7.8,1442,504,24.6,7.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",043,In labor force,4788,510,3641,579,76,9,1147,446,24,9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",044,Employed,4598,486,3536,563,76.9,8.5,1062,397,23.1,8.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",045,Unemployed,190,148,105,87,55.3,41.3,85,114,44.7,41.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",046,Not in labor force,1067,264,772,252,72.4,12.8,295,141,27.6,12.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",047,Civilian noninstitutionalized population 19 to 64 years,5855,512,4413,519,75.4,7.8,1442,504,24.6,7.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",048,"Worked full-time, year round in the past 12 months",3010,524,2555,490,84.9,6.8,455,215,15.1,6.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",049,"Worked less than full-time, year round in the past 12 months",1825,330,1165,284,63.8,13.7,660,296,36.2,13.7
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",050,Did not work,1020,275,693,213,67.9,16.1,327,203,32.1,16.1
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",051,Total household population,10845,901,9095,959,83.9,5.5,1750,622,16.1,5.5
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",052,"Under $25,000",2414,872,1859,680,77,8.4,555,302,23,8.4
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",053,"$25,000 to $49,999",1427,777,970,669,68,26.8,457,426,32,26.8
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",054,"$50,000 to $74,999",2896,841,2294,624,79.2,9,602,359,20.8,9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",055,"$75,000 to $99,999",1236,507,1183,490,95.7,5.6,53,73,4.3,5.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",056,"$100,000 and over",2872,827,2789,785,97.1,3.3,83,105,2.9,3.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",057,Civilian noninstitutionalized population for whom poverty status is determined,10806,901,9056,960,83.8,5.6,1750,622,16.2,5.6
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",058,Below 138 percent of the poverty threshold,3045,909,2260,810,74.2,8.9,785,289,25.8,8.9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",059,138 to 399 percent of the poverty threshold,4310,892,3394,716,78.7,9.9,916,510,21.3,9.9
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",060,At or above 400 percent of the poverty threshold,3451,720,3402,708,98.6,2.3,49,80,1.4,2.3
+1400000US28047003206,"Census Tract 32.06, Harrison County, Mississippi",061,Below 100 percent of the poverty threshold,2475,879,1768,705,71.4,8,707,273,28.6,8

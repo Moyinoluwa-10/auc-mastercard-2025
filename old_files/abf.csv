@@ -1,0 +1,39 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,male,male_moe,male_pct,female,female_moe,female_pct
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,001,Total population,8266,1619,,3133,697,,5133,1277,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,002,Under 5 years,618,329,7.5,248,198,7.9,370,287,7.2
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,003,5 to 9 years,357,246,4.3,68,89,2.2,289,242,5.6
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,004,10 to 14 years,779,739,9.4,210,153,6.7,569,727,11.1
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,005,15 to 19 years,703,338,8.5,359,210,11.5,344,285,6.7
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,006,20 to 24 years,475,283,5.7,154,174,4.9,321,214,6.3
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,007,25 to 29 years,797,368,9.6,186,121,5.9,611,323,11.9
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,008,30 to 34 years,368,250,4.5,144,175,4.6,224,176,4.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,009,35 to 39 years,952,707,11.5,570,420,18.2,382,329,7.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,010,40 to 44 years,825,366,10,416,247,13.3,409,220,8
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,011,45 to 49 years,471,215,5.7,70,86,2.2,401,217,7.8
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,012,50 to 54 years,518,267,6.3,94,83,3,424,240,8.3
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,013,55 to 59 years,379,194,4.6,181,148,5.8,198,130,3.9
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,014,60 to 64 years,313,147,3.8,133,105,4.2,180,110,3.5
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,015,65 to 69 years,102,87,1.2,52,80,1.7,50,40,1
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,016,70 to 74 years,402,166,4.9,162,143,5.2,240,120,4.7
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,017,75 to 79 years,81,60,1,42,44,1.3,39,41,0.8
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,018,80 to 84 years,95,70,1.1,32,30,1,63,80,1.2
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,019,85 years and over,31,42,0.4,12,19,0.4,19,27,0.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,020,5 to 14 years,1136,783,13.7,278,210,8.9,858,770,16.7
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,021,15 to 17 years,660,322,8,334,207,10.7,326,285,6.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,022,Under 18 years,2414,1063,29.2,860,305,27.4,1554,1054,30.3
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,023,18 to 24 years,518,294,6.3,179,177,5.7,339,219,6.6
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,024,15 to 44 years,4120,979,49.8,1829,546,58.4,2291,599,44.6
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,025,16 years and over,6344,993,76.7,2554,576,81.5,3790,640,73.8
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,026,18 years and over,5852,798,70.8,2273,579,72.6,3579,531,69.7
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,027,21 years and over,5688,779,68.8,2230,561,71.2,3458,528,67.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,028,60 years and over,1024,218,12.4,433,159,13.8,591,181,11.5
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,029,62 years and over,849,199,10.3,362,156,11.6,487,158,9.5
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,030,65 years and over,711,184,8.6,300,142,9.6,411,147,8
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,031,75 years and over,207,106,2.5,86,57,2.7,121,101,2.4
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,032,Median age (years),35.2,8.5,,36.6,3.1,,30.5,8.7,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,033,Sex ratio (males per 100 females),61,17.3,,,,,,,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,034,Age dependency ratio,60.8,17.1,,,,,,,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,035,Old-age dependency ratio,13.8,4.7,,,,,,,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,036,Child dependency ratio,47,17.8,,,,,,,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,037,Sex,,,0,,,,,,
+1400000US47157021124,Census Tract 211.24; Shelby County; Tennessee,038,Age,,,0.4,,,,,,

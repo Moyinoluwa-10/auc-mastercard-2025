@@ -1,0 +1,28 @@
+GEO_ID,NAME,line_no,label,oc_units,oc_units_moe,oc_units_pct,oc_units_pct_moe,ooh_units,ooh_units_moe,ooh_units_pct,ooh_units_pct_moe,roh_units,roh_units_moe,roh_units_pct,roh_units_pct_moe
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",001,Occupied housing units,3415,246,3415,246,703,165,703,165,2712,298,2712,298
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",002,White,2317,235,67.8,5.2,663,152,94.3,6.5,1654,262,61,6.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",003,Black or African American,710,202,20.8,5.6,0,17,0,4.5,710,202,26.2,7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",004,American Indian and Alaska Native,20,38,0.6,1.1,0,17,0,4.5,20,38,0.7,1.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",005,Asian,168,100,4.9,3,24,44,3.4,5.9,144,95,5.3,3.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",006,Native Hawaiian and Other Pacific Islander,0,17,0,0.9,0,17,0,4.5,0,17,0,1.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",007,Some other race,0,17,0,0.9,0,17,0,4.5,0,17,0,1.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",008,Two or more races,200,127,5.9,3.7,16,25,2.3,3.6,184,125,6.8,4.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",009,Hispanic or Latino origin,136,116,4,3.5,67,101,9.5,13.5,69,60,2.5,2.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",010,"White alone, not Hispanic or Latino",2181,261,63.9,5.6,596,129,84.8,14.4,1585,273,58.4,6.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",011,Under 35 years,1409,296,41.3,7.6,0,17,0,4.5,1409,296,52,8.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",012,35 to 44 years,586,207,17.2,6.1,108,114,15.4,14.5,478,176,17.6,6.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",013,45 to 54 years,325,164,9.5,4.8,30,40,4.3,5.5,295,165,10.9,5.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",014,55 to 64 years,328,129,9.6,3.7,106,69,15.1,8.9,222,126,8.2,4.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",015,65 to 74 years,392,115,11.5,3.2,228,85,32.4,12.6,164,97,6,3.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",016,75 to 84 years,225,87,6.6,2.6,150,75,21.3,10.1,75,55,2.8,2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",017,85 years and over,150,69,4.4,2,81,51,11.5,7.1,69,45,2.5,1.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",018,Less than high school graduate,215,109,6.3,3.2,98,80,13.9,10.8,117,81,4.3,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",019,High school graduate (includes equivalency),851,266,24.9,8,247,134,35.1,15.8,604,230,22.3,8.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",020,Some college or associate's degree,1507,303,44.1,7.4,139,69,19.8,9,1368,297,50.4,8.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",021,Bachelor's degree or higher,842,228,24.7,6.5,219,102,31.2,13.5,623,214,23,7.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",022,Moved in 2017 or later,847,268,24.8,7.2,0,17,0,4.5,847,268,31.2,8.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",023,Moved in 2015 to 2016,814,238,23.8,6.7,66,60,9.4,8.2,748,234,27.6,8.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",024,Moved in 2010 to 2014,937,213,27.4,6.1,44,41,6.3,5.9,893,201,32.9,7.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",025,Moved in 2000 to 2009,478,179,14,5.2,278,144,39.5,15.1,200,125,7.4,4.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",026,Moved in 1990 to 1999,113,70,3.3,2.1,103,62,14.7,9,10,18,0.4,0.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",027,Moved in 1989 or earlier,226,89,6.6,2.6,212,85,30.2,12.2,14,22,0.5,0.8

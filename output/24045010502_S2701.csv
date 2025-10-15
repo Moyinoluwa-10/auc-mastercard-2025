@@ -1,0 +1,62 @@
+GEO_ID,NAME,line_no,label,total,total_moe,insured,insured_moe,insured_pct,insured_pct_moe,uninsured,uninsured_moe,uninsured_pct,uninsured_pct_moe
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",001,Civilian noninstitutionalized population,9835,750,9431,773,95.9,2.2,404,211,4.1,2.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",002,Under 6 years,577,229,577,229,100,5.5,0,17,0,5.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",003,6 to 18 years,1037,375,1037,375,100,3.1,0,17,0,3.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",004,19 to 25 years,4182,662,4026,679,96.3,4.2,156,174,3.7,4.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",005,26 to 34 years,811,258,713,229,87.9,11.5,98,101,12.1,11.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",006,35 to 44 years,976,256,886,229,90.8,10.1,90,104,9.2,10.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",007,45 to 54 years,621,196,582,198,93.7,6.6,39,39,6.3,6.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",008,55 to 64 years,526,165,526,165,100,6,0,17,0,6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",009,65 to 74 years,527,146,506,138,96,5.8,21,33,4,5.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",010,75 years and older,578,161,578,161,100,5.5,0,17,0,5.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",011,Under 19 years,1614,289,1614,289,100,2,0,17,0,2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",012,19 to 64 years,7116,719,6733,747,94.6,3,383,209,5.4,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",013,65 years and older,1105,180,1084,174,98.1,2.9,21,33,1.9,2.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",014,Male,4484,602,4291,569,95.7,3.1,193,147,4.3,3.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",015,Female,5351,565,5140,587,96.1,3,211,158,3.9,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",016,White alone,6108,665,5803,680,95,3.3,305,205,5,3.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",017,Black or African American alone,2653,392,2629,392,99.1,1.3,24,33,0.9,1.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",018,American Indian and Alaska Native alone,95,111,50,62,52.6,14.4,45,51,47.4,14.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",019,Asian alone,583,313,553,297,94.9,5.9,30,37,5.1,5.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",020,Native Hawaiian and Other Pacific Islander alone,0,17,0,17,,,0,17,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",021,Some other race alone,9,17,9,17,100,98.9,0,17,0,98.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",022,Two or more races,387,200,387,200,100,8.1,0,17,0,8.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",023,Hispanic or Latino (of any race),215,124,148,75,68.8,37,67,101,31.2,37
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",024,"White alone, not Hispanic or Latino",5911,696,5673,690,96,3.3,238,201,4,3.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",025,In family households,5259,638,5042,611,95.9,3.5,217,187,4.1,3.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",026,In married couple families,2839,746,2677,716,94.3,6.3,162,182,5.7,6.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",027,In other families,2420,716,2365,724,97.7,2.6,55,58,2.3,2.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",028,"Male reference person, no spouse present",339,264,339,264,100,9.1,0,17,0,9.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",029,"Female reference person, no spouse present",2081,751,2026,754,97.4,3.1,55,58,2.6,3.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",030,In non-family households and other living arrangements,4576,610,4389,620,95.9,2.9,187,132,4.1,2.9
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",031,Native born,8794,774,8632,747,98.2,1.5,162,135,1.8,1.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",032,Foreign born,1041,378,799,315,76.8,18.1,242,215,23.2,18.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",033,Naturalized,273,198,264,196,96.7,7.8,9,20,3.3,7.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",034,Not a citizen,768,356,535,302,69.7,24,233,205,30.3,24
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",035,With a disability,1092,231,1043,230,95.5,4.2,49,46,4.5,4.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",036,No disability,8743,735,8388,761,95.9,2.4,355,212,4.1,2.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",037,Civilian noninstitutionalized population 26 years and over,4039,329,3791,322,93.9,3.2,248,133,6.1,3.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",038,Less than high school graduate,390,164,315,144,80.8,14.7,75,64,19.2,14.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",039,High school graduate (includes equivalency),1341,347,1274,338,95,7.3,67,101,5,7.3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",040,Some college or associate's degree,1183,358,1106,340,93.5,9.1,77,110,6.5,9.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",041,Bachelor's degree or higher,1125,318,1096,310,97.4,3,29,34,2.6,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",042,Civilian noninstitutionalized population 19 to 64 years,7116,719,6733,747,94.6,3,383,209,5.4,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",043,In labor force,5148,545,4926,572,95.7,2.8,222,140,4.3,2.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",044,Employed,4839,552,4640,573,95.9,3,199,141,4.1,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",045,Unemployed,309,168,286,161,92.6,9.5,23,31,7.4,9.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",046,Not in labor force,1968,402,1807,374,91.8,6.8,161,140,8.2,6.8
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",047,Civilian noninstitutionalized population 19 to 64 years,7116,719,6733,747,94.6,3,383,209,5.4,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",048,"Worked full-time, year round in the past 12 months",2356,455,2272,448,96.4,4.4,84,105,3.6,4.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",049,"Worked less than full-time, year round in the past 12 months",3557,600,3405,615,95.7,3,152,101,4.3,3
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",050,Did not work,1203,404,1056,357,87.8,10.2,147,135,12.2,10.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",051,Total household population,8853,753,8485,763,95.8,2.4,368,210,4.2,2.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",052,"Under $25,000",2054,714,1942,702,94.5,8.6,112,179,5.5,8.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",053,"$25,000 to $49,999",3182,892,3038,887,95.5,3.5,144,105,4.5,3.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",054,"$50,000 to $74,999",2068,635,1973,605,95.4,3.1,95,71,4.6,3.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",055,"$75,000 to $99,999",825,518,808,517,97.9,3.7,17,28,2.1,3.7
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",056,"$100,000 and over",724,406,724,406,100,4.4,0,17,0,4.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",057,Civilian noninstitutionalized population for whom poverty status is determined,8956,753,8579,771,95.8,2.4,377,215,4.2,2.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",058,Below 138 percent of the poverty threshold,3623,801,3614,804,99.8,0.6,9,20,0.2,0.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",059,138 to 399 percent of the poverty threshold,3987,723,3636,695,91.2,5,351,205,8.8,5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",060,At or above 400 percent of the poverty threshold,1346,459,1329,460,98.7,2.2,17,28,1.3,2.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",061,Below 100 percent of the poverty threshold,2588,671,2579,675,99.7,0.8,9,20,0.3,0.8

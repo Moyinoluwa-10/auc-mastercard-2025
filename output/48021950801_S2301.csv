@@ -1,0 +1,36 @@
+GEO_ID,NAME,line_no,label,total,total_moe,lfp_rate,lfp_rate_moe,ep_ratio,ep_ratio_moe,unemployment_rate,unemployment_rate_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Population 16 years and over,5866,759,61.3,4.9,52.5,5.3,14.3,6.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,16 to 19 years,700,211,24.4,16.2,15.3,14.3,37.4,43.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,20 to 24 years,639,285,76.8,25.8,43.2,27.8,43.8,31.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,25 to 29 years,579,383,78.4,13.7,61,20.3,22.2,29.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,30 to 34 years,444,239,75.7,21,75.7,21,0,11.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,35 to 44 years,926,222,75.8,12.6,66.2,17.1,12.7,16.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,45 to 54 years,1127,317,66.8,13.9,62.9,13.8,5.8,8.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,55 to 59 years,592,274,72,14.8,72,14.8,0,9.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,60 to 64 years,361,224,48.5,28.4,48.5,28.4,0,21.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,65 to 74 years,449,153,19.4,12.8,19.4,12.8,0,36.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,75 years and over,49,56,0,48.4,0,48.4,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,White alone,2180,497,60.1,5.4,54,7.6,10.2,10
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,Black or African American alone,258,292,35.3,26.1,35.3,26.1,0,35.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,American Indian and Alaska Native alone,28,46,100,64.1,100,64.1,0,64.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,Asian alone,0,19,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,Native Hawaiian and Other Pacific Islander alone,0,19,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",017,Some other race alone,3016,828,65.9,7.5,53.3,8,19.1,10.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",018,Two or more races,384,285,46.4,14.8,46.4,14.8,0,21
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",019,Hispanic or Latino origin (of any race),4194,879,61.6,6.5,49.7,7.1,19.2,8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",020,"White alone, not Hispanic or Latino",1348,332,65.4,8.1,64.2,8.4,1.9,3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",021,Population 20 to 64 years,4668,688,71.5,6.4,61.9,7.7,13.5,7.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",022,Male,2463,450,83.6,8.2,74.3,10.6,11.1,9.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",023,Female,2205,387,58,11.7,48,10.4,17.2,13.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",024,With own children under 18 years,999,246,61.2,14.8,54,15.7,11.8,10.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",025,With own children under 6 years only,160,141,21.3,32.8,0,23,100,58.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",026,With own children under 6 years and 6 to 17  years,206,138,72.3,36.9,62.1,39,14.1,28.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",027,With own children 6 to 17 years only,633,200,67.6,17.5,64.9,18.5,4,6.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",028,Below poverty level,299,226,49.5,26.5,22.7,18.4,54.1,54.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",029,At or above the poverty level,4369,704,73,6.3,64.5,8.2,11.6,7.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",030,With any disability,732,406,34.3,15.3,24.5,10.5,28.7,34.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",031,Population 25 to 64 years,4029,592,70.6,5.8,64.8,6.1,8.2,4.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",032,Less than high school graduate,1584,512,71.5,12,61.9,12.5,13.4,9.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",033,High school graduate (includes equivalency),1223,422,63.7,11.9,60.1,12.6,5.6,8.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",034,Some college or associate's degree,775,314,79.6,11.1,74.7,11.7,6.2,7.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",035,Bachelor's degree or higher,447,184,70.9,18.6,70.9,18.6,0,12.5

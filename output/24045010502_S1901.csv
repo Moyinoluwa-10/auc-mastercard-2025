@@ -1,0 +1,17 @@
+GEO_ID,NAME,line_no,label,households,households_moe,families,families_moe,mc_families,mc_families_moe,nf_households,nf_households_moe
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",001,Total,3415,246,1652,245,800,199,1763,267
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",002,"Less than $10,000",7,3.9,7,5.5,1.5,2.6,9.9,6.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",003,"$10,000 to $14,999",1.8,2.1,0,1.9,0,4,3.4,4.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",004,"$15,000 to $24,999",12.5,5.1,11.7,7.5,13,11.7,15.4,8.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",005,"$25,000 to $34,999",14.8,5.2,10.3,8,2.5,4.3,18.7,8.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",006,"$35,000 to $49,999",23.8,6.8,21.7,10.1,23.4,16.2,21.3,9.1
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",007,"$50,000 to $74,999",23.8,6,27.2,8.9,32.4,12.7,20.6,7.6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",008,"$75,000 to $99,999",8.3,4.4,14.3,9.1,15.4,11.6,2.7,2.4
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",009,"$100,000 to $149,999",1.1,1.3,0,1.9,0,4,2.2,2.5
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",010,"$150,000 to $199,999",4.6,3.6,4.6,4.5,5.3,6.2,4.7,6
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",011,"$200,000 or more",2.2,2,3.2,3.4,6.6,6.7,1.2,2.2
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",012,Median income (dollars),41236,6047,47204,11208,61042,16101,36323,6598
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",013,Mean income (dollars),54256,7439,60832,11028,-999999999,-999999999,46456,9886
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",014,Household income in the past 12 months,52.4,,,,,,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",015,Family income in the past 12 months,,,45.8,,,,,
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",016,Nonfamily income in the past 12 months,,,,,,,57.1,

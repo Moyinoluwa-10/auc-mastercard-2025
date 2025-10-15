@@ -1,0 +1,32 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",001,Total households,3426,422,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",002,Has one or more types of computing devices:,3145,387,91.8,5.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",003,Desktop or laptop,2466,341,72,8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",004,Desktop or laptop with no other type of computing device,192,103,5.6,3.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",005,Smartphone,2849,390,83.2,6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",006,Smartphone with no other type of computing device,357,192,10.4,5.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",007,Tablet or other portable wireless computer,2026,356,59.1,8.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",008,Tablet or other portable wireless computer with no other type of computing device,53,33,1.5,0.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",009,Other computer,26,32,0.8,0.9
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",010,Other computer with no other type of computing device,0,18,0,1.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",011,No computer,281,206,8.2,5.5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",012,With an Internet subscription:,2907,348,84.9,6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",013,Dial-up with no other type of Internet subscription,15,26,0.4,0.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",014,Broadband of any type,2892,345,84.4,6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",015,Cellular data plan,2490,342,72.7,7.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",016,Cellular data plan with no other type of Internet subscription,549,258,16,6.8
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",017,"Broadband such as cable, fiber optic or DSL",2194,327,64,9.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",018,Satellite Internet service,180,94,5.3,2.7
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",019,Without an Internet subscription,519,239,15.1,6
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",020,"Less than $20,000:",735,271,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",021,With dial-up Internet subscription alone,0,18,0,5
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",022,With a broadband Internet subscription,561,240,76.3,14
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",023,Without an Internet subscription,174,114,23.7,14
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",024,"$20,000 to $74,999:",1861,306,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",025,With dial-up Internet subscription alone,15,26,0.8,1.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",026,With a broadband Internet subscription,1558,308,83.7,10.2
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",027,Without an Internet subscription,288,199,15.5,10.1
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",028,"$75,000 or more:",830,256,,
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",029,With dial-up Internet subscription alone,0,18,0,4.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",030,With a broadband Internet subscription,773,245,93.1,7.4
+1400000US28047003301,"Census Tract 33.01, Harrison County, Mississippi",031,Without an Internet subscription,57,65,6.9,7.4

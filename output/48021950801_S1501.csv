@@ -1,0 +1,64 @@
+GEO_ID,NAME,line_no,label,total,total_moe,total_pct,total_pct_moe,male,male_moe,male_pct,male_pct_moe,female,female_moe,female_pct,female_pct_moe
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",001,Population 18 to 24 years,1111,364,,,718,247,,,393,209,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",002,Less than high school graduate,424,301,38.2,24.5,239,225,33.3,31.6,185,174,47.1,30.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",003,High school graduate (includes equivalency),355,269,32,23.2,335,267,46.7,32,20,36,5.1,10.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",004,Some college or associate's degree,332,236,29.9,19.2,144,143,20.1,19.5,188,131,47.8,30.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",005,Bachelor's degree or higher,0,19,0,3.7,0,19,0,5.7,0,19,0,10.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",006,Population 25 years and over,4527,613,,,2197,409,,,2330,375,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",007,Less than 9th grade,803,403,17.7,8.9,282,160,12.8,7.4,521,311,22.4,12.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",008,"9th to 12th grade, no diploma",916,356,20.2,7.3,485,231,22.1,8.9,431,234,18.5,9.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",009,High school graduate (includes equivalency),1348,427,29.8,7.7,807,255,36.7,9.9,541,234,23.2,9.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",010,"Some college, no degree",780,268,17.2,5.5,472,232,21.5,9.1,308,122,13.2,5.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",011,Associate's degree,218,109,4.8,2.5,74,68,3.4,3.3,144,103,6.2,4.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",012,Bachelor's degree,391,172,8.6,3.8,77,57,3.5,2.6,314,158,13.5,7.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",013,Graduate or professional degree,71,92,1.6,2.1,0,19,0,1.9,71,92,3,4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",014,High school graduate or higher,2808,637,62,10.9,1430,363,65.1,11.2,1378,323,59.1,13.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",015,Bachelor's degree or higher,462,189,10.2,4.2,77,57,3.5,2.6,385,175,16.5,7.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",016,Population 25 to 34 years,1023,461,,,486,292,,,537,247,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",017,High school graduate or higher,656,414,64.1,24.5,380,286,78.2,23.6,276,159,51.4,25.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",018,Bachelor's degree or higher,54,63,5.3,6.2,19,30,3.9,6.5,35,39,6.5,7.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",019,Population 35 to 44 years,926,222,,,320,135,,,606,177,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",020,High school graduate or higher,614,162,66.3,17.9,198,86,61.9,31.3,416,138,68.6,18.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",021,Bachelor's degree or higher,216,123,23.3,12.6,36,38,11.3,12.8,180,119,29.7,18.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",022,Population 45 to 64 years,2080,405,,,1206,252,,,874,245,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",023,High school graduate or higher,1175,320,56.5,14.3,712,202,59,15.1,463,182,53,20.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",024,Bachelor's degree or higher,177,116,8.5,5.5,22,31,1.8,2.6,155,110,17.7,12.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",025,Population 65 years and over,498,151,,,185,70,,,313,122,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",026,High school graduate or higher,363,127,72.9,18.9,140,64,75.7,22.3,223,90,71.2,24
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",027,Bachelor's degree or higher,15,29,3,5.8,0,19,0,20.4,15,29,4.8,9.5
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",028,White alone,1977,430,,,1090,268,,,887,221,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",029,High school graduate or higher,1577,344,79.8,11,809,200,74.2,14,768,202,86.6,10.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",030,Bachelor's degree or higher,300,141,15.2,6.7,68,55,6.2,5.3,232,129,26.2,12.6
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",031,"White alone, not Hispanic or Latino",1267,309,,,575,175,,,692,177,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",032,High school graduate or higher,1219,307,96.2,4,558,174,97,4.8,661,178,95.5,6.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",033,Bachelor's degree or higher,275,139,21.7,9,50,49,8.7,8.4,225,126,32.5,15.3
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",034,Black alone,69,78,,,0,19,,,69,78,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",035,High school graduate or higher,69,78,100,40.8,0,19,,,69,78,100,40.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",036,Bachelor's degree or higher,51,77,73.9,52.2,0,19,,,51,77,73.9,52.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",037,American Indian or Alaska Native alone,28,46,,,0,19,,,28,46,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",038,High school graduate or higher,28,46,100,64.1,0,19,,,28,46,100,64.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",039,Bachelor's degree or higher,0,19,0,64.1,0,19,,,0,19,0,64.1
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",040,Asian alone,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",041,High school graduate or higher,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",042,Bachelor's degree or higher,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",043,Native Hawaiian and Other Pacific Islander alone,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",044,High school graduate or higher,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",045,Bachelor's degree or higher,0,19,,,0,19,,,0,19,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",046,Some other race alone,2148,622,,,1014,370,,,1134,365,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",047,High school graduate or higher,996,565,46.4,19.6,528,329,52.1,21,468,277,41.3,22.9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",048,Bachelor's degree or higher,66,79,3.1,3.9,9,26,0.9,2.6,57,76,5,7.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",049,Two or more races,305,209,,,93,77,,,212,186,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",050,High school graduate or higher,138,103,45.2,36.3,93,77,100,34.7,45,59,21.2,34
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",051,Bachelor's degree or higher,45,59,14.8,21.4,0,19,0,34.7,45,59,21.2,34
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",052,Hispanic or Latino Origin,3125,654,,,1570,423,,,1555,402,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",053,High school graduate or higher,1454,600,46.5,15.1,820,366,52.2,15.8,634,285,40.8,17.7
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",054,Bachelor's degree or higher,122,98,3.9,3.2,27,33,1.7,2.2,95,95,6.1,6.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",055,Less than high school graduate,,,15.9,14.6,,,6.6,10.3,,,23.3,21.2
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",056,High school graduate (includes equivalency),,,4.8,4.7,,,4.6,6,,,5.2,8.8
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",057,Some college or associate's degree,,,0,4.2,,,0,7.5,,,0,9
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",058,Bachelor's degree or higher,,,0,8.8,,,0,38.6,,,0,10.4
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",059,Population 25 years and over with earnings,43167,11478,,,46127,13375,,,31932,18315,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",060,Less than high school graduate,36607,20481,,,46452,38941,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",061,High school graduate (includes equivalency),54071,17955,,,57532,13857,,,,,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",062,Some college or associate's degree,31042,18745,,,32266,26447,,,30063,29288,,
+1400000US48021950801,"Census Tract 9508.01, Bastrop County, Texas",063,Bachelor's degree,54240,52638,,,83850,53095,,,53578,50609,,
